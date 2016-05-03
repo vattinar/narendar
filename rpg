@@ -1,0 +1,4 @@
+     DStdInLn          S              9S 0   INZ(950)
+     C     StdInLn       DSPLY
+     C                   eval      *INLR=*ON
+
